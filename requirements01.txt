@@ -3,4 +3,3 @@ cvzone
 pygame
 numpy
 mediapipe
-threading
